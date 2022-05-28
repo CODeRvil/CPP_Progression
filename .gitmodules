@@ -1,0 +1,6 @@
+[submodule "GFG_Probs"]
+	path = GFG_Probs
+	url = https://github.com/CODeRvil/GFG_Probs
+[submodule "DSA-ApnaCollege"]
+	path = DSA-ApnaCollege
+	url = https://github.com/CODeRvil/DSA-ApnaCollege
